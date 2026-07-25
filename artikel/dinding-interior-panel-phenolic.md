@@ -1,0 +1,199 @@
+---
+article_id: PHN-06-04
+title: "Panel Dinding Interior Phenolic: Sambungan, Sudut, dan Maintenance Access"
+slug: "dinding-interior-panel-phenolic"
+description: "Coordinate substrate, fire boundary, joints, corners, skirting, openings, services, impact, cleaning, removable panels, and tolerances"
+status: outline
+publication_date: "2026-01-04"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: PHN-06
+primary_intent: "Plan an interior wall lining"
+reader_community: "Phenolic.id"
+reader_address: "Kawan Phenolic.id"
+final_route: "/artikel/dinding-interior-panel-phenolic.html"
+technical_review: required
+sources:
+  - "https://www.iso.org/standard/72960.html"
+  - "https://www.iso.org/standard/72962.html"
+  - "https://www.iso.org/standard/72964.html"
+  - "https://www.formica.com/en-gb/products/washroom"
+  - "https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf"
+  - "https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/"
+  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
+  - "https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022"
+  - "https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022"
+  - "https://store.astm.org/e0557-12r26.html"
+  - "https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true"
+  - "https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Panel Dinding Interior Phenolic: Sambungan, Sudut, dan Maintenance Access
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Panel Dinding Interior Phenolic: Sambungan, Sudut, dan Maintenance Access”
+- **Reader and situation:** Architect detailing public/commercial interiors
+- **Reader outcome:** Coordinate substrate, fire boundary, joints, corners, skirting, openings, services, impact, cleaning, removable panels, and tolerances
+- **Primary intent:** Plan an interior wall lining
+- **Reader community:** `Phenolic.id`
+- **Primary friendly address:** `Kawan Phenolic.id`
+- **Natural variants:** `Sobat Phenolic.id` and `Teman Phenolic.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** No fire/system compliance or fixing spacing; PHN-08 and PHN-10 own evidence/details
+- **Final public route:** `/artikel/dinding-interior-panel-phenolic.html`
+- **Appointed CMS date:** `2026-01-04` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Kawan Phenolic.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Panel Dinding Interior Phenolic: Sambungan, Sudut, dan Maintenance Access**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Kawan Phenolic.id`, `Sobat Phenolic.id`, or `Teman Phenolic.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-01
+
+- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
+- **Purpose for this article:** Freeze the verified editorial scope for `phenolic.id` and prevent family research from overriding this project's actual catalog boundaries.
+- **Safe grounded facts:** Each parent has eight lifecycle/decision briefs. The catalog explicitly requires primary evidence for structural, fire, acoustic, moisture, health, accessibility, and performance claims. Existing pages and sitemap entries do not prove product performance or current regulatory compliance.
+- **Limits:** Recheck counts only if the frozen authority files are later changed under separate authorization.
+
+### KR-08
+
+- **Original sources:** [ISO 4586-2:2018 HPL test-method scope](https://www.iso.org/standard/72960.html), [ISO 4586-4:2018 interior compact laminate scope](https://www.iso.org/standard/72962.html), [ISO 4586-6:2018 exterior-grade compact laminate scope](https://www.iso.org/standard/72964.html), [Formica Washroom Collection](https://www.formica.com/en-gb/products/washroom)
+- **Purpose for this article:** Support phenolic/compact-laminate, wet-area, semi-exterior, durability, and cleaning decisions without converting marketing language into universal performance.
+- **Safe grounded facts:** “Phenolic,” “HPL,” and “compact” are not sufficient specifications. Interior compact grade is not automatically exterior grade; moisture resistance is not permission for immersion; a panel claim does not prove cubicle anchors, hardware, doors, privacy, corrosion resistance, or accessibility.
+- **Limits:** ISO abstracts do not provide values or classifications. Formica guidance applies only to named products/markets and current availability must be checked in Indonesia. Resolve `G-05` before product claims.
+
+### KR-09
+
+- **Original sources:** [Bobrick 2040 HPL toilet-partition installation instructions](https://www.bobrick.com/wp-content/uploads/2040-69_ii.pdf), [Bobrick compact-grade-laminate product evidence](https://www.bobrick.com/products/toilet-partitions-cubicle-systems/materials-and-hardware/compact-grade-laminate/), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
+- **Purpose for this article:** Expose the installed cubicle as a coordinated system of panels, pilasters/stiles, doors, latches, hinges, legs/headrails, brackets, anchors, gaps, and building supports.
+- **Safe grounded facts:** Configuration changes the load path, cleaning access, floor/ceiling demands, stability, and installation sequence. Compact laminate can change dimension with humidity; holes, edge distances, fixings, ventilation, and conditioning therefore cannot be improvised from a generic material label.
+- **Limits:** Do not copy Bobrick/Formica dimensions or loads into an unrelated product or Indonesian project. Exact system engineering, manufacturer instructions, and accessibility review must resolve `G-03`, `G-04`, and `G-05`.
+
+### KR-07
+
+- **Original sources:** [SNI 9144-1:2022 laminated safety glass detail record — BSN](https://pesta.bsn.go.id/produk/detail/14416-sni9144-12022), [SNI 9144-2:2022 tempered safety glass detail record — BSN](https://pesta.bsn.go.id/produk/detail/14417-sni9144-22022)
+- **Purpose for this article:** Keep glass/aluminium partition selection tied to safety-glass identity, support, edge condition, human impact, doors, and installed context.
+- **Safe grounded facts:** Tempered and laminated products answer different breakage and retention questions. Product conformity does not determine project thickness, panel size, holes/cut-outs, edge support, fittings, guard/fall function, manifestation, door hardware, or frame/anchor adequacy.
+- **Limits:** Full SNI text, project design, and current supplier evidence are required before exact criteria or a compliance statement. Resolve `G-01`, `G-03`, and `G-13`.
+
+### KR-14
+
+- **Original sources:** [ASTM E557-12(2026) operable-partition acoustic design/installation guide](https://store.astm.org/e0557-12r26.html), [Modernfold technical specification with support, installer, and report requirements](https://www.modernfold.com/document/e85561c0-9020-11ec-a109-d7329673ffbe?open=true), [dormakaba Indonesia MOVEO product/operating-document hub](https://www.dormakaba.com/id-en/offering/products/movable-walls/dorma-huppe/moveo--do_9478)
+- **Purpose for this article:** Cover movable walls as supported mechanical building systems rather than loose decorative panels.
+- **Safe grounded facts:** Track support, panel weight, stacking pocket, floor level, seals, jamb closure, pass doors, operating frequency, user training, and maintenance all affect safety and performance. Panel STC/Rw marketing does not prove room isolation or suitability of the building support.
+- **Limits:** Foreign ASTM guidance and proprietary literature are not Indonesian compliance. Exact loads, track, ratings, controls, and inspection intervals require current supplier design and professional review; resolve `G-03`, `G-05`, `G-08`, and `G-09`.
+
+## Evidence gates
+
+- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/phenolic-plywood` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/phenolic-board.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/phenolic-board-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/phenolic-board-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/phenolic-board-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/phenolic-board-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `PHN-06-02` → `/artikel/substrate-untuk-laminate-phenolic.html` — Memilih Substrate untuk Laminate Phenolic
+- `PHN-06-03` → `/artikel/worktop-laminate-phenolic.html` — Meja Dapur dan Worktop Phenolic: Panas, Air, Sambungan, dan Cutout
+- `PHN-06-05` → `/artikel/kontrol-warna-batch-phenolic.html` — Color, Pattern, Gloss, dan Batch pada Panel Phenolic
+- `PHN-06-06` → `/artikel/edge-detail-furniture-phenolic.html` — Edge Detail Furniture Phenolic: Exposed, Laminated, atau Profiled
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Tentukan objek, kondisi, dan tahap siklus hidup
+
+- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
+- **Tie back to this article:** Keep the explanation specific to “Panel Dinding Interior Phenolic: Sambungan, Sudut, dan Maintenance Access”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Mekanisme perubahan atau penurunan kinerja
+
+- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
+- **Tie back to this article:** Keep the explanation specific to “Panel Dinding Interior Phenolic: Sambungan, Sudut, dan Maintenance Access”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Inspeksi dan data yang perlu dicatat
+
+- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
+- **Tie back to this article:** Keep the explanation specific to “Panel Dinding Interior Phenolic: Sambungan, Sudut, dan Maintenance Access”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Pilihan perawatan atau intervensi
+
+- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
+- **Tie back to this article:** Keep the explanation specific to “Panel Dinding Interior Phenolic: Sambungan, Sudut, dan Maintenance Access”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Cara menentukan prioritas
+
+- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
+- **Tie back to this article:** Keep the explanation specific to “Panel Dinding Interior Phenolic: Sambungan, Sudut, dan Maintenance Access”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Rekaman, handover, dan pemicu pemeriksaan ulang
+
+- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
+- **Tie back to this article:** Keep the explanation specific to “Panel Dinding Interior Phenolic: Sambungan, Sudut, dan Maintenance Access”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Kawan Phenolic.id!` and uses friendly `Phenolic.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
